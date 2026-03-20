@@ -142,7 +142,7 @@ android-app-prd/
 
 ## Built By
 
-Created by **Shyam** — Frontend & Product Engineer, building AI-native tools and products.
+Created by **Rishikesh** — Frontend & Product Engineer, building AI-native tools and products.
 
 Part of a personal initiative to build reusable Claude Skills for common product engineering workflows.
 
